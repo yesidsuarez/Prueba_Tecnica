@@ -17,7 +17,7 @@ import com.globalhitts.serviaseo.service.ClientService;
 public class ClientController {
 
     private ClientService clienteService;
-
+//sdadf
     @Autowired
     @Qualifier("clientService")
     public void setClienteService(ClientService clienteService) {
